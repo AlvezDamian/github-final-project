@@ -1,7 +1,5 @@
-# Simple Interest Calculator
-Repo for Coursera Full Stack Course
-In this file you can find important information for the correct use and commitment of code.
-
+# Introduction to Git and GitHub
+Simple Interest Calculator
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
